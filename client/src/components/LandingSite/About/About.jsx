@@ -2,31 +2,31 @@ import { TeamCard } from "./TeamMember";
 function About() {
 
   const ahad = {
-    name: "Abdul Ahad",
+    name: "Rashi Kudale",
     designation: "Front-end Engineer",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",
   };
   const danish = {
-    name: "Muhammad Danish",
+    name: "Likita Kalluri",
     designation: "Backend-end Engineer",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",
   };
   const abubakar = {
-    name: "Muhammad Abubakar",
+    name: "Rashi Kudale",
     designation: "Front End Developer",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",
   };
   const muneeb = {
-    name: "Muneeb Ahmed",
+    name: "Likita Kalluri",
     designation: "Front End Developer",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",
   };
   const arsal = {
-    name: "Syed Arsal",
+    name: "likita Kalluri",
     designation: "Database",
     image:
       "https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png",

@@ -10,7 +10,7 @@ function HeroSection() {
       </div>
       <div className="md:pt-[8%]">
         <h1 className="font-bold text-6xl">
-          Hostel <span className="text-blue-500">Management</span> System
+          ROOMIE <span className="text-blue-500">HUB</span> 
         </h1>
         <p className="py-10 text-2xl">
           One Solution For All Of The Hostel&apos;s Needs
