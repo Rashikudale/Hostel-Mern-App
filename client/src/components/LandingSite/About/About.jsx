@@ -38,11 +38,11 @@ function About() {
         Meet Our Team!
       </h1>
       <div className="py-20 sm:py-25 flex gap-10 flex-wrap justify-center align-center">
-        <TeamCard member={ahad} />
-        <TeamCard member={danish} />
-        <TeamCard member={abubakar} />
-        <TeamCard member={arsal} />
-        <TeamCard member={muneeb} />
+        <TeamCard member={Rashi} />
+        <TeamCard member={Likita} />
+        <TeamCard member={Rashi} />
+        <TeamCard member={Likita} />
+        <TeamCard member={Likita} />
       </div>
     </>
   );
